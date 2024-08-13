@@ -5,7 +5,7 @@ To install all the dependencies
 npm install
 ```
 
-To install all the project
+To run the project
 ```bash
 npm start
 ```
@@ -26,4 +26,8 @@ Node version  >= 16
 Chakra UI > 2.8
 
 Used Parcel as bundler.
+
+For State Management - Context API
+
+Javascript Library - React
 
